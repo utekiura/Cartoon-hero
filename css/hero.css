@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+}
+header{
+    background-color: pink;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h1, h2{
+    font-family: 'Syne Tactile'; cursive;
+}
+
+header h1{
+    color: white;
+    
+}
+
+header img{
+    border-radius: 170px;
+    width: 300px;
+    border: 20px solid #483a94;
+}
